@@ -1,0 +1,63 @@
+:root {
+  font-family: "Roboto", sans-serif;
+  background-color: #f4f5e4;
+  --background-color: #f4f5e4;
+  --accent-color: #7b5a2b;
+  --backgroung-card: #fefbe7;
+  --background-image: #eee2cc;
+}
+.material-icon {
+  font-family: "Material Icons";
+  font-size: 24px;
+  color: var(--accent-color);
+}
+body {
+  margin: 100px;
+}
+
+.caption {
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--accent-color);
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 600;
+  color: #7b5a2b;
+  margin: 0;
+}
+
+.flex-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+.flex-row.start {
+  justify-content: flex-start;
+}
+.dashed {
+  border-bottom: 4px dashed #7b5a2b;
+  padding-bottom: 8px;
+  margin-bottom: 48px;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.material-icons.title {
+  font-size: 60px;
+  color: var(--background-color);
+}
+
+.icon-card {
+  background-color: var(--accent-color);
+  border-radius: 13px;
+  padding: 8px;
+  margin-right: 8px;
+}

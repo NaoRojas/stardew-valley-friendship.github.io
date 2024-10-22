@@ -1,0 +1,161 @@
+{
+  "characters": [
+    {
+      "name": "Abigail",
+      "loves": [
+        {
+          "name": "Pufferfish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png"
+        },
+        {
+          "name": "Chocolate Cake",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png"
+        },
+        {
+          "name": "Blackberry Cobbler",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/70/Blackberry_Cobbler.png"
+        },
+        {
+          "name": "Banana Pudding",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/40/Banana_Pudding.png"
+        },
+        {
+          "name": "Amethyst",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        },
+        {
+          "name": "Amethyst",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        },
+        {
+          "name": "Amethyst",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        },
+        {
+          "name": "Amethyst",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        },
+        {
+          "name": "Amethyst",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        }
+      ],
+      "likes": [
+        "Quartz"
+      ],
+      "dislikes": [
+        "Eggs",
+        "Vegetables",
+        "Wheat Flour"
+      ],
+      "hates": [
+        "Stone",
+        "Clay"
+      ]
+    },
+    {
+      "name": "Sebastian",
+      "loves": [
+        "Pumpkin Soup",
+        "Frozen Tear",
+        "Sashimi"
+      ],
+      "likes": [
+        "Spaghetti",
+        "Coffee",
+        "Quartz"
+      ],
+      "dislikes": [
+        "Daffodil"
+      ],
+      "hates": [
+        "Eggs",
+        "Stone",
+        "Clay"
+      ]
+    },
+    {
+      "name": "Haley",
+      "loves": [
+        "Pink Cake",
+        "Fruit Salad",
+        "Coconut"
+      ],
+      "likes": [
+        "Daffodil"
+      ],
+      "dislikes": [
+        "Eggs",
+        "Milk",
+        "Vegetables"
+      ],
+      "hates": [
+        "Fish",
+        "Clay",
+        "Stone"
+      ]
+    },
+    {
+      "name": "Sam",
+      "loves": [
+        "Pizza",
+        "Cactus Fruit",
+        "Maple Bar"
+      ],
+      "likes": [
+        "Joja Cola",
+        "Eggs"
+      ],
+      "dislikes": [
+        "Quartz",
+        "Seaweed"
+      ],
+      "hates": [
+        "Stone"
+      ]
+    },
+    {
+      "name": "Penny",
+      "loves": [
+        "Melon",
+        "Diamond",
+        "Tom Kha Soup"
+      ],
+      "likes": [
+        "Leek",
+        "Tulip",
+        "Milk"
+      ],
+      "dislikes": [
+        "Quartz",
+        "Clay"
+      ],
+      "hates": [
+        "Stone",
+        "Grape",
+        "Hops"
+      ]
+    },
+    {
+      "name": "Leah",
+      "loves": [
+        "Salad",
+        "Stir Fry",
+        "Wine"
+      ],
+      "likes": [
+        "Eggs",
+        "Fruits",
+        "Greens"
+      ],
+      "dislikes": [
+        "Gems",
+        "Clay"
+      ],
+      "hates": [
+        "Poppy",
+        "Pizza"
+      ]
+    }
+  ]
+}
