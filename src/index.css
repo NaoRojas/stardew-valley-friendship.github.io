@@ -6,6 +6,18 @@
   --backgroung-card: #fefbe7;
   --background-image: #eee2cc;
 }
+
+:root {
+  --rt-color-white: #fff;
+  --rt-color-dark: #222;
+  --rt-color-success: #8dc572;
+  --rt-color-error: #be6464;
+  --rt-color-warning: #f0ad4e;
+  --rt-color-info: #337ab7;
+  --rt-opacity: 0.9;
+  --rt-transition-show-delay: 0.15s;
+  --rt-transition-closing-delay: 0.15s;
+}
 .material-icon {
   font-family: "Material Icons";
   font-size: 24px;
@@ -118,4 +130,10 @@ input::placeholder {
   input {
     font-size: 16px;
   }
+}
+
+.tooltip-green {
+  background-color: rgb(98, 173, 165);
+  color: var(--background-color);
+  padding: 8px;
 }

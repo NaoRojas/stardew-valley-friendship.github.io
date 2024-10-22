@@ -8,6 +8,15 @@
   display: flex;
 }
 
+.card-info .tooltip-green {
+  background-color: rgb(98, 173, 165);
+  color: #fff;
+  padding: 8px 12px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  border-radius: 20px;
+}
+
 .circle {
   width: 42px;
   height: 42px;

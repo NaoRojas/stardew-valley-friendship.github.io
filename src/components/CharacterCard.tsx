@@ -1,5 +1,8 @@
 import React from 'react'
+import 'react-tooltip/dist/react-tooltip.css'
+
 import './CharacterCard.css' // Assuming you have a CSS file for styling
+import { Tooltip } from 'react-tooltip'
 
 interface CharacterCardProps {
   name: string
@@ -35,9 +38,14 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
         <div className="caption">Loves</div>
         <div className="card-info">
           {loves.map(({ name, image }) => (
-            <div key={name} className="circle">
-              <img src={image} />
-            </div>
+            <>
+              <div key={name} className="circle" data-tooltip-id={name}>
+                <img src={image} />
+              </div>
+              <Tooltip className="tooltip-green" id={name} place="top">
+                {name}
+              </Tooltip>
+            </>
           ))}
         </div>
       </div>

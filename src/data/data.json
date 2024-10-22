@@ -75,7 +75,7 @@
       "name": "Sebastian",
       "loves": [
         {
-          "name": "Pumpkin Soup",
+          "name": "Green_Frog_Egg",
           "image": "https://stardewvalleywiki.com/mediawiki/images/2/23/Green_Frog_Egg.png"
         },
         {
@@ -83,11 +83,11 @@
           "image": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png"
         },
         {
-          "name": "Sashimi",
+          "name": "Obsidian",
           "image": "https://stardewvalleywiki.com/mediawiki/images/2/23/Obsidian.png"
         },
         {
-          "name": "Sashimi",
+          "name": "Pumpkin_Soup",
           "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png"
         },
         {
@@ -95,21 +95,21 @@
           "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png"
         },
         {
-          "name": "Sashimi",
+          "name": "Void_Egg",
           "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
         }
       ],
       "likes": [
         {
-          "name": "Spaghetti",
+          "name": "Combat_Quarterly",
           "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Combat_Quarterly.png"
         },
         {
-          "name": "Coffee",
+          "name": "Flounder",
           "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png"
         },
         {
-          "name": "Quartz",
+          "name": "Monster_Compendium",
           "image": "https://stardewvalleywiki.com/mediawiki/images/1/15/Monster_Compendium.png"
         },
         {
@@ -119,11 +119,11 @@
       ],
       "dislikes": [
         {
-          "name": "Daffodil",
+          "name": "Chanterelle",
           "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Common_Mushroom",
           "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png"
         },
         {
@@ -131,49 +131,49 @@
           "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Dandelion",
           "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Ginger",
           "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Hazelnut",
           "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Holly",
           "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Purple_Mushroom",
           "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Snow_Yam",
           "image": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png"
         }
       ],
       "hates": [
         {
-          "name": "Eggs",
+          "name": "Clay",
           "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
         },
         {
-          "name": "Stone",
+          "name": "Farmer's Lunch",
           "image": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png"
         },
         {
-          "name": "Clay",
+          "name": "Omelet",
           "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png"
         },
         {
-          "name": "Stone",
+          "name": "Complete_Breakfast",
           "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png"
         },
         {
-          "name": "Clay",
+          "name": "Piña Colada",
           "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png"
         }
       ]
