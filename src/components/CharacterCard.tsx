@@ -3,8 +3,14 @@ import './CharacterCard.css' // Assuming you have a CSS file for styling
 
 interface CharacterCardProps {
   name: string
-  image: string
-  description: string
+
+  loves: { name: string; image: string }[]
+
+  likes: { name: string; image: string }[]
+
+  dislikes: { name: string; image: string }[]
+
+  hates: { name: string; image: string }[]
 }
 
 const CharacterCard: React.FC<CharacterCardProps> = ({
