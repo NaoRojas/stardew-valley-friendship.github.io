@@ -6,10 +6,22 @@ import { useState } from 'react'
 function App() {
   const characters = data.characters
   const [search, setSearch] = useState('')
+  const [searchItem, setSearchItem] = useState('')
 
-  const filteredCharacters = characters.filter((character) =>
-    character.name.toLowerCase().includes(search.toLowerCase())
+  const filteredCharacters = characters.filter(
+    (character) =>
+      character.name.toLowerCase().includes(search.toLowerCase()) &&
+      (character.loves.some((love) =>
+        love.name.toLowerCase().includes(searchItem.toLowerCase())
+      ) ||
+        character.likes.some((like) =>
+          like.name.toLowerCase().includes(searchItem.toLowerCase())
+        ) ||
+        character.hates.some((dislike) =>
+          dislike.name.toLowerCase().includes(searchItem.toLowerCase())
+        ))
   )
+
   return (
     <>
       <div className="flex-row start dashed">
@@ -25,12 +37,12 @@ function App() {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
-        {/* <input
+        <input
           type="text"
           placeholder="Search Item"
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-        /> */}
+          value={searchItem}
+          onChange={(e) => setSearchItem(e.target.value)}
+        />
       </div>
       <div className="flex-col center">
         {filteredCharacters.map((character) => (
