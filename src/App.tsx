@@ -32,7 +32,7 @@ function App() {
           onChange={(e) => setSearch(e.target.value)}
         /> */}
       </div>
-      <div className="flex-col">
+      <div className="flex-col center">
         {filteredCharacters.map((character) => (
           <CharacterCard
             key={character.name}

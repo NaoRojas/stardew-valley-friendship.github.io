@@ -67,11 +67,15 @@ h1 {
 .flex-row.center {
   justify-content: center;
 }
+.flex-col.center {
+  align-items: center;
+}
 
 input {
   border-radius: 50px;
   padding: 8px 20px;
   margin: 8px;
+  margin-bottom: 24px;
   background-color: #f1cb30;
   color: var(--accent-color);
   border: none;

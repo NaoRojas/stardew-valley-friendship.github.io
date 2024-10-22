@@ -42,7 +42,7 @@
   display: flex;
   background-color: var(--backgroung-card);
   padding: 20px;
-  margin: 12px;
+  margin-bottom: 12px;
   width: fit-content;
   border-radius: 10px;
 }
