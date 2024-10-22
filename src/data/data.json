@@ -20,141 +20,241 @@
           "image": "https://stardewvalleywiki.com/mediawiki/images/4/40/Banana_Pudding.png"
         },
         {
-          "name": "Amethyst",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+          "name": "Pumpkin",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
         },
         {
-          "name": "Amethyst",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
-        },
-        {
-          "name": "Amethyst",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
-        },
-        {
-          "name": "Amethyst",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
-        },
-        {
-          "name": "Amethyst",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+          "name": "Spicy Eel",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png"
         }
       ],
       "likes": [
-        "Quartz"
+        {
+          "name": "Ancient Sword",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/76/Ancient_Sword.png"
+        },
+        {
+          "name": "Basilisk Paw",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/0/02/Basilisk_Paw.png"
+        },
+        {
+          "name": "Bone Flute",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/f/fc/Bone_Flute.png"
+        },
+        {
+          "name": "Combat Quarterly",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Combat_Quarterly.png"
+        },
+        {
+          "name": "Quartz",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+        }
       ],
       "dislikes": [
-        "Eggs",
-        "Vegetables",
-        "Wheat Flour"
+        {
+          "name": "Sugar",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sugar.png"
+        },
+        {
+          "name": "Wild Horseradish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
+        }
       ],
       "hates": [
-        "Stone",
-        "Clay"
+        {
+          "name": "Clay",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
+        },
+        {
+          "name": "Holly",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+        }
       ]
     },
     {
       "name": "Sebastian",
       "loves": [
-        "Pumpkin Soup",
-        "Frozen Tear",
-        "Sashimi"
+        {
+          "name": "Pumpkin Soup",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/23/Green_Frog_Egg.png"
+        },
+        {
+          "name": "Frozen Tear",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png"
+        },
+        {
+          "name": "Sashimi",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/23/Obsidian.png"
+        },
+        {
+          "name": "Sashimi",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png"
+        },
+        {
+          "name": "Sashimi",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png"
+        },
+        {
+          "name": "Sashimi",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
+        }
       ],
       "likes": [
-        "Spaghetti",
-        "Coffee",
-        "Quartz"
+        {
+          "name": "Spaghetti",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Combat_Quarterly.png"
+        },
+        {
+          "name": "Coffee",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png"
+        },
+        {
+          "name": "Quartz",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/15/Monster_Compendium.png"
+        },
+        {
+          "name": "Quartz",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+        }
       ],
       "dislikes": [
-        "Daffodil"
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png"
+        }
       ],
       "hates": [
-        "Eggs",
-        "Stone",
-        "Clay"
+        {
+          "name": "Eggs",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
+        },
+        {
+          "name": "Stone",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png"
+        },
+        {
+          "name": "Clay",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Omelet.png"
+        },
+        {
+          "name": "Stone",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png"
+        },
+        {
+          "name": "Clay",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png"
+        }
       ]
     },
     {
       "name": "Haley",
       "loves": [
-        "Pink Cake",
-        "Fruit Salad",
-        "Coconut"
+        {
+          "name": "Pink Cake",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
+        },
+        {
+          "name": "Fruit Salad",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Fruit_Salad.png"
+        },
+        {
+          "name": "Coconut",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
+        },
+        {
+          "name": "Coconut",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png"
+        }
       ],
       "likes": [
-        "Daffodil"
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+        }
       ],
       "dislikes": [
-        "Eggs",
-        "Milk",
-        "Vegetables"
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Hazelnut.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png"
+        }
       ],
       "hates": [
-        "Fish",
-        "Clay",
-        "Stone"
-      ]
-    },
-    {
-      "name": "Sam",
-      "loves": [
-        "Pizza",
-        "Cactus Fruit",
-        "Maple Bar"
-      ],
-      "likes": [
-        "Joja Cola",
-        "Eggs"
-      ],
-      "dislikes": [
-        "Quartz",
-        "Seaweed"
-      ],
-      "hates": [
-        "Stone"
-      ]
-    },
-    {
-      "name": "Penny",
-      "loves": [
-        "Melon",
-        "Diamond",
-        "Tom Kha Soup"
-      ],
-      "likes": [
-        "Leek",
-        "Tulip",
-        "Milk"
-      ],
-      "dislikes": [
-        "Quartz",
-        "Clay"
-      ],
-      "hates": [
-        "Stone",
-        "Grape",
-        "Hops"
-      ]
-    },
-    {
-      "name": "Leah",
-      "loves": [
-        "Salad",
-        "Stir Fry",
-        "Wine"
-      ],
-      "likes": [
-        "Eggs",
-        "Fruits",
-        "Greens"
-      ],
-      "dislikes": [
-        "Gems",
-        "Clay"
-      ],
-      "hates": [
-        "Poppy",
-        "Pizza"
+        {
+          "name": "Fish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
+        },
+        {
+          "name": "Clay",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png"
+        },
+        {
+          "name": "Stone",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
+        }
       ]
     }
   ]

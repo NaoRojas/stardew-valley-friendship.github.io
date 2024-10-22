@@ -29,12 +29,13 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 8px;
+  /* row-gap: 1px; */
   border: 2px solid var(--accent-color);
   border-radius: 13px;
   padding: 8px;
   min-height: 158px;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-content: start;
 }
 
 .character-card {
@@ -47,5 +48,5 @@
 }
 
 .column {
-  margin-left: 4px;
+  margin-left: 8px;
 }

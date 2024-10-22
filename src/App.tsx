@@ -18,7 +18,9 @@ function App() {
             key={character.id}
             name={character.name}
             loves={character.loves}
-            description={character.description}
+            likes={character.likes}
+            dislikes={character.dislikes}
+            hates={character.hates}
           />
         ))}
       </div>
