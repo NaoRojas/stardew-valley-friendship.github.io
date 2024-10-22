@@ -206,11 +206,11 @@
       ],
       "dislikes": [
         {
-          "name": "Daffodil",
+          "name": "Chanterelle",
           "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png"
         },
         {
-          "name": "Daffodil",
+          "name": "Common_Mushroom",
           "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png"
         },
         {
@@ -244,15 +244,15 @@
       ],
       "hates": [
         {
-          "name": "Fish",
+          "name": "Clay",
           "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
         },
         {
-          "name": "Clay",
+          "name": "Prismatic Shard",
           "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png"
         },
         {
-          "name": "Stone",
+          "name": "Wild Horseradish",
           "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
         }
       ]

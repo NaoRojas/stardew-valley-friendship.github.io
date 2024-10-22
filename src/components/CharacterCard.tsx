@@ -54,9 +54,14 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
         <div className="caption">Likes</div>
         <div className="card-info">
           {likes.map(({ name, image }) => (
-            <div key={name} className="circle">
-              <img src={image} />
-            </div>
+            <>
+              <div key={name} className="circle" data-tooltip-id={name}>
+                <img src={image} />
+              </div>
+              <Tooltip className="tooltip-green" id={name} place="top">
+                {name}
+              </Tooltip>
+            </>
           ))}
         </div>
       </div>
@@ -65,9 +70,14 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
         <div className="caption">Hates</div>
         <div className="card-info">
           {hates.map(({ name, image }) => (
-            <div key={name} className="circle">
-              <img src={image} />
-            </div>
+            <>
+              <div key={name} className="circle" data-tooltip-id={name}>
+                <img src={image} />
+              </div>
+              <Tooltip className="tooltip-green" id={name} place="top">
+                {name}
+              </Tooltip>
+            </>
           ))}
         </div>
       </div>
