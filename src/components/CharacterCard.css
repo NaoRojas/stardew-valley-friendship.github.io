@@ -50,3 +50,41 @@
 .column {
   margin-left: 8px;
 }
+@media (max-width: 600px) {
+  .character-card {
+    flex-direction: column;
+    align-items: center;
+  }
+  .card-info {
+    width: 104px;
+    min-height: 104px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    padding: 8px;
+  }
+  .column {
+    margin-left: 0;
+  }
+  .circle img {
+    width: 16px;
+    height: 16px;
+  }
+  .circle {
+    width: 24px;
+    height: 24px;
+  }
+  .character-card-image {
+    width: 124px;
+    max-height: 124px;
+  }
+  .character-card-image img {
+    width: 124px;
+    max-height: 124px;
+  }
+  .character-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: self-start;
+    gap: 8px;
+  }
+}

@@ -17,7 +17,6 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
   name,
   likes,
   loves,
-  dislikes,
   hates,
 }) => {
   return (
@@ -54,16 +53,6 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
         </div>
       </div>
 
-      <div className="flex-col column">
-        <div className="caption">Dislikes</div>
-        <div className="card-info">
-          {dislikes.map(({ name, image }) => (
-            <div key={name} className="circle">
-              <img src={image} />
-            </div>
-          ))}
-        </div>
-      </div>
       <div className="flex-col column">
         <div className="caption">Hates</div>
         <div className="card-info">
