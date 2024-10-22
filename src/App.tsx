@@ -15,7 +15,7 @@ function App() {
       <div className="flex-col">
         {characters.map((character) => (
           <CharacterCard
-            key={character.id}
+            key={character.name}
             name={character.name}
             loves={character.loves}
             likes={character.likes}
