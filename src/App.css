@@ -54,9 +54,6 @@ select {
   appearance: none; /* Hide the default arrow */
   -webkit-appearance: none; /* For Safari */
   -moz-appearance: none; /* For Firefox */
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iOCIgdmlld0JveD0iMCAwIDE2IDgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEgMUwxNSAxbC03IDZsLTctNiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg=="); /* Custom arrow */
-  background-repeat: no-repeat;
-  background-position: right 10px center;
 }
 
 select option {
