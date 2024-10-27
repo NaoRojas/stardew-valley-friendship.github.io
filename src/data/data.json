@@ -1187,17 +1187,114 @@
     },
     {
       "name": "Linus",
-      "loves": [],
-      "likes": [],
+      "loves": [
+        {
+          "name": "Blueberry Tart",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png"
+        },
+        {
+          "name": "Cactus Fruit",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
+        },
+        {
+          "name": "Coconut",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
+        },
+        {
+          "name": "Dish O' The Sea",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/f/ff/Dish_O%27_The_Sea.png"
+        },
+        {
+          "name": "Yam",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Yam.png"
+        }
+      ],
+      "likes": [
+        {
+          "name": "Chanterelle",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png"
+        },
+        {
+          "name": "Common Mushroom",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+        },
+        {
+          "name": "Dandelion",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
+        },
+        {
+          "name": "Ginger",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Ginger.png"
+        },
+        {
+          "name": "Holly",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+        },
+        {
+          "name": "Leek",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/57/Leek.png"
+        },
+        {
+          "name": "Morel",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png"
+        },
+        {
+          "name": "Snow Yam",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/3f/Snow_Yam.png"
+        },
+        {
+          "name": "Wild Horseradish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
+        },
+        {
+          "name": "Winter Root",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png"
+        }
+      ],
       "dislikes": [],
       "hates": []
     },
     {
       "name": "Marnie",
-      "loves": [],
-      "likes": [],
+      "loves": [
+        {
+          "name": "Diamond",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
+        },
+        {
+          "name": "Farmer's Lunch",
+          "image": "https://stardewvalleywiki.com/File:Farmer%27s_Lunch.png"
+        },
+        {
+          "name": "Pink Cake",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
+        },
+        {
+          "name": "Pumpkin Pie",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png"
+        },
+      ],
+      "likes": [
+        {
+          "name": "Quartz",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+        }
+      ],
       "dislikes": [],
-      "hates": []
+      "hates": [
+        {
+          "name": "Holly",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+        },
+        {
+          "name": "Clay",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
+        }
+      ]
     },
     {
       "name": "Maru",
