@@ -40,3 +40,38 @@
 .read-the-docs {
   color: #888;
 }
+
+select {
+  border-radius: 50px;
+  padding: 8px 20px;
+  background-color: #f1cb30;
+  margin-right: 8px;
+  color: var(--accent-color);
+  border: none;
+  font-size: 24px;
+  text-align: center;
+  width: 200px;
+  appearance: none; /* Hide the default arrow */
+  -webkit-appearance: none; /* For Safari */
+  -moz-appearance: none; /* For Firefox */
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iOCIgdmlld0JveD0iMCAwIDE2IDgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEgMUwxNSAxbC03IDZsLTctNiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg=="); /* Custom arrow */
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+}
+
+select option {
+  background-color: #f1cb30;
+  color: var(--accent-color);
+  font-size: 24px;
+}
+.clear-button {
+  position: relative;
+  left: -50px;
+  background: none;
+  border: none;
+}
+
+.clear-button:hover .material-icons {
+  cursor: pointer;
+  font-weight: 600;
+}

@@ -56,6 +56,12 @@
   border-radius: 10px;
 }
 
+.character-card {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
 .column {
   margin-left: 8px;
 }
