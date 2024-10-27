@@ -638,7 +638,7 @@
         },
         {
           "name": "Sashimi",
-          "image": "hhttps://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png"
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png"
         }
       ]
     },
@@ -742,7 +742,7 @@
       "hates": [
         {
           "name": "Holly",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Clay.png"
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
         },
         {
           "name": "Quartz",
@@ -994,7 +994,7 @@
         },
         {
           "name": "Pumpkin",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/7b/Pumpkin.png"
         },
         {
           "name": "Void Egg",
@@ -1358,7 +1358,7 @@
         },
         {
           "name": "Farmer's Lunch",
-          "image": "https://stardewvalleywiki.com/File:Farmer%27s_Lunch.png"
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png"
         },
         {
           "name": "Pink Cake",
@@ -1432,7 +1432,7 @@
         },
         {
           "name": "Super Meal",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Super_Meal.png"
+          "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png"
         }
       ],
       "likes": [
