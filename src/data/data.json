@@ -570,10 +570,73 @@
     },
     {
       "name": "Emily",
-      "loves": [],
-      "likes": [],
+      "loves": [
+        {
+          "name": "Amethyst",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        },
+        {
+          "name": "Aquamarine",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png"
+        },
+        {
+          "name": "Cloth",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png"
+        },
+        {
+          "name": "Emerald",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png"
+        },
+        {
+          "name": "Ruby",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png"
+        },
+        {
+          "name": "Survival Burger",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Survival_Burger.png"
+        },
+        {
+          "name": "Topaz",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png"
+        },
+        {
+          "name": "Wool",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Wool.png"
+        }
+      ],
+      "likes": [
+        {
+          "name": "Aquamarine",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Aquamarine.png"
+        },
+        {
+          "name": "Aquamarine",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+        }
+      ],
       "dislikes": [],
-      "hates": []
+      "hates": [
+        {
+          "name": "Fish Taco",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png"
+        },
+        {
+          "name": "Holly",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+        },
+        {
+          "name": "Maki Roll",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png"
+        },
+        {
+          "name": "Salmon Dinner",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png"
+        },
+        {
+          "name": "Sashimi",
+          "image": "hhttps://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png"
+        }
+      ]
     },
     {
       "name": "Evelyn",
