@@ -2013,6 +2013,177 @@
       ],
       "dislikes": [],
       "hates": []
+    },
+    {
+      "name": "Harvey",
+      "loves": [
+        {
+          "name": "Coffee",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png"
+        },
+        {
+          "name": "Pickles",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Pickles.png"
+        },
+        {
+          "name": "Super Meal",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png"
+        },
+        {
+          "name": "Truffle Oil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Truffle_Oil.png"
+        },
+        {
+          "name": "Wine",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/6/69/Wine.png"
+        }
+      ],
+      "likes": [
+        {
+          "name": "Chanterelle",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Chanterelle.png"
+        },
+        {
+          "name": "Common Mushroom",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/2e/Common_Mushroom.png"
+        },
+        {
+          "name": "Daffodil",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
+        },
+        {
+          "name": "Dandelion",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Dandelion.png"
+        },
+        {
+          "name": "Duck Egg",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Duck_Egg.png"
+        },
+        {
+          "name": "Spring Onion",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/0/0c/Spring_Onion.png"
+        },
+        {
+          "name": "Duck_Feather",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png"
+        },
+        {
+          "name": "Holly",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b8/Holly.png"
+        },
+        {
+          "name": "Large Goat Milk",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Large_Goat_Milk.png"
+        },
+        {
+          "name": "Morel",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Morel.png"
+        },
+        {
+          "name": "Purple Mushroom",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
+        },
+        {
+          "name": "Wild Horseradish",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
+        },
+        {
+          "name": "Quartz",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Quartz.png"
+        },
+        {
+          "name": "Winter Root",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/Winter_Root.png"
+        },
+      ],
+      "dislikes": [
+        {
+          "name": "Blueberry Tart",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png"
+        },
+        {
+          "name": "Bread",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Bread.png"
+        },
+        {
+          "name": "Cheese",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Cheese.png"
+        },
+        {
+          "name": "Chocolate Cake",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png"
+        },
+        {
+          "name": "Cookie",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/7/70/Cookie.png"
+        },
+        {
+          "name": "Cranberry Sauce",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Cranberry_Sauce.png"
+        },
+        {
+          "name": "Fried Mushroom",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png"
+        },
+        {
+          "name": "Glazed Yams",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png"
+        },
+        {
+          "name": "Goat Cheese",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png"
+        },
+        {
+          "name": "Hashbrowns",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Hashbrowns.png"
+        },
+        {
+          "name": "Ice Cream",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png"
+        },
+        {
+          "name": "Pancakes",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png"
+        },
+        {
+          "name": "Pink Cake",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
+        },
+        {
+          "name": "Pizza",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png"
+        },
+        {
+          "name": "Rhubarb Pie",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png"
+        },
+        {
+          "name": "Rice Pudding",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png"
+        }
+      ],
+      "hates": [
+        {
+          "name": "Coral",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/b/b1/Coral.png"
+        },
+        {
+          "name": "Nautilus Shell",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Nautilus_Shell.png"
+        },
+        {
+          "name": "Rainbow Shell",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Rainbow_Shell.png"
+        },
+        {
+          "name": "Salmonberry",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Salmonberry.png"
+        },
+        {
+          "name": "Spice Berry",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/c/c6/Spice_Berry.png"
+        }
+      ]
     }
   ]
 }

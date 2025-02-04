@@ -72,3 +72,10 @@ select option {
   cursor: pointer;
   font-weight: 600;
 }
+
+.kofi-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
