@@ -2,7 +2,7 @@ import './App.css'
 import CharacterCard from './components/CharacterCard'
 import data from './data/data.json'
 import { useState } from 'react'
-import { KoFiDialog, KoFiButton, KoFiWidget, KoFiPanel } from 'react-kofi'
+import { KoFiButton } from 'react-kofi'
 import 'react-kofi/dist/styles.css'
 
 function App() {
@@ -58,17 +58,15 @@ function App() {
           </button>
         )}
       </div>
-      <KoFiButton
-        color="#df5a22"
+      <button
         className="kofi-button"
-        textColor="#fff"
-        id="naoreds"
-        label="Support me"
-        padding={0}
-        width={400}
-        iframe={false}
-        buttonRadius="8px"
-      />
+        onClick={() => window.open('https://ko-fi.com/naoreds', '_blank')}
+      >
+        <img
+          src="https://ko-fi.com/img/githubbutton_sm.svg"
+          alt="Ko-fi support me"
+        />
+      </button>
 
       <div className="flex-col center characters">
         {filteredCharacters.map((character) => (
