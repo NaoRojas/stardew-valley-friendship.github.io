@@ -279,16 +279,20 @@
       ],
       "likes": [
         {
+          "name": "Universal Likes",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Alex_Happy.png/48px-Alex_Happy.png"
+        },
+        {
           "name": "Dinosaur Egg",
           "image": "https://stardewvalleywiki.com/mediawiki/images/a/a1/Dinosaur_Egg.png"
         },
         {
-          "name": "Prismatic Shard",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Prismatic_Shard.png"
+          "name": "Field Snack",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Field_Snack.png"
         },
         {
-          "name": "Wild Horseradish",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
+          "name": "Parrot Egg",
+          "image": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Parrot_Egg.png"
         }
       ],
       "dislikes": [],
