@@ -2,7 +2,6 @@ import './App.css'
 import CharacterCard from './components/CharacterCard'
 import data from './data/data.json'
 import { useState } from 'react'
-import { KoFiButton } from 'react-kofi'
 import 'react-kofi/dist/styles.css'
 
 function App() {
