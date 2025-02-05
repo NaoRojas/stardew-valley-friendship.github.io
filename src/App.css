@@ -74,11 +74,30 @@ select option {
 }
 
 .kofi-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   position: fixed;
   bottom: 20px;
   right: 20px;
   z-index: 1000;
-  color: white;
   border: none;
-  background: none;
+  background: white;
+  border-radius: 24px;
+  padding: 8px 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.kofi-icon {
+  height: 32px;
+  border-radius: 50%;
+}
+
+@media (max-width: 450px) {
+  .kofi-button span {
+    display: none;
+  }
 }

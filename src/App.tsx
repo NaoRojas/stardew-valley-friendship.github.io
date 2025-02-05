@@ -62,14 +62,17 @@ function App() {
         onClick={() => window.open('https://ko-fi.com/naoreds', '_blank')}
       >
         <img
-          src="https://ko-fi.com/img/githubbutton_sm.svg"
+          className="kofi-icon"
+          src="https://i0.wp.com/www.journoresources.org.uk/wp-content/uploads/2019/05/ko-fi.jpg?ssl=1"
           alt="Ko-fi support me"
         />
+        <span>Support Me on Ko-fi</span>
       </button>
 
       <div className="flex-col center characters">
         {filteredCharacters.map((character) => (
           <CharacterCard
+            search={search}
             key={character.name}
             name={character.name}
             loves={character.loves}

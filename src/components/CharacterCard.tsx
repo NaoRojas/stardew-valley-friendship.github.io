@@ -5,6 +5,7 @@ import './CharacterCard.css' // Assuming you have a CSS file for styling
 import { Tooltip } from 'react-tooltip'
 
 interface CharacterCardProps {
+  search: string
   name: string
 
   loves: { name: string; image: string }[]
@@ -17,6 +18,7 @@ interface CharacterCardProps {
 }
 
 const CharacterCard: React.FC<CharacterCardProps> = ({
+  search,
   name,
   likes,
   loves,
@@ -39,7 +41,16 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
         <div className="card-info">
           {loves.map(({ name, image }) => (
             <>
-              <div key={name} className="circle" data-tooltip-id={name}>
+              <div
+                key={name}
+                className="circle"
+                style={
+                  search && name.toLowerCase().includes(search.toLowerCase())
+                    ? { backgroundColor: 'red' }
+                    : {}
+                }
+                data-tooltip-id={name}
+              >
                 <img src={image} />
               </div>
               <Tooltip className="tooltip-green" id={name} place="top">
@@ -55,7 +66,16 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
         <div className="card-info">
           {likes.map(({ name, image }) => (
             <>
-              <div key={name} className="circle" data-tooltip-id={name}>
+              <div
+                key={name}
+                className="circle"
+                style={
+                  search && name.toLowerCase().includes(search.toLowerCase())
+                    ? { backgroundColor: 'red' }
+                    : {}
+                }
+                data-tooltip-id={name}
+              >
                 <img src={image} />
               </div>
               <Tooltip className="tooltip-green" id={name} place="top">
@@ -71,7 +91,16 @@ const CharacterCard: React.FC<CharacterCardProps> = ({
         <div className="card-info">
           {hates.map(({ name, image }) => (
             <>
-              <div key={name} className="circle" data-tooltip-id={name}>
+              <div
+                key={name}
+                className="circle"
+                style={
+                  search && name.toLowerCase().includes(search.toLowerCase())
+                    ? { backgroundColor: 'red' }
+                    : {}
+                }
+                data-tooltip-id={name}
+              >
                 <img src={image} />
               </div>
               <Tooltip className="tooltip-green" id={name} place="top">
